@@ -1,0 +1,13 @@
+header{
+	text-align: center;
+}
+.navbar ul{
+margin: 0 auto;
+}
+footer{
+	bottom: 0;
+	position: absolute;
+}
+#image{
+	height: 20vh;
+}
