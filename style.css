@@ -13,5 +13,19 @@ footer{
 }
 #image1{
 	height: 50vh;
-	width: 100vh;
+	float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+
+#aboutmesection {
+    margin-top: 25px;
 }
